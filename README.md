@@ -54,7 +54,7 @@ I'm a **Software Developer** specializing in building **scalable full-stack web 
 <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=databricks&logoColor=white" />
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,nginx,linux,firebase,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,firebase,vercel" />
 
 ---
 
