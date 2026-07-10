@@ -174,21 +174,8 @@ A task management app to organize tasks efficiently with a clean UI.
 ---
 
  <p align="center">
-  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=far120&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=far120&layout=compact&theme=tokyonight" /> -->
-   <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=far120&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=far120&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=far120&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=far120&layout=compact&theme=tokyonight" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=far120&theme=tokyonight" />
 </p> 
 
