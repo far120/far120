@@ -23,9 +23,6 @@
   <img src="https://streak-stats.demolab.com/?user=far120&theme=tokyonight&hide_border=true" alt="Mostafa's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=far120&theme=tokyo-night&hide_border=true" alt="Mostafa's GitHub Activity Graph" />
-</p>
 
 </div>
 
@@ -178,6 +175,6 @@
 
 <br/>
 
-*✨ Created with passion for clean code, high performance, and AI innovation.*
+
 
 </div>
