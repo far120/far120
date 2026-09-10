@@ -101,7 +101,7 @@
 
 ## 🚀 **Featured Projects**
 
-### 🤖 1. [TestPilot — AI-Powered Web Automation Platform](https://github.com/far120) *(Graduation Project)*
+### 🤖 1. [TestPilot — AI-Powered Web Automation Platform](https://github.com/far120/TestPilot--Mostafa_Elfar-GP) *(Graduation Project)*
 > **Tech Stack:** React 18, Vite, Tailwind CSS, WebSockets (Socket.IO), OpenAI API, React Router
 
 - 🎯 Built a single-page web automation platform frontend with 4+ core views.
@@ -111,7 +111,7 @@
 
 ---
 
-### ⚡ 2. [ELFAR Full-Stack Starter — Scalable Architecture & Starter Template](https://github.com/far120)
+### ⚡ 2. [ELFAR Full-Stack Starter — Scalable Architecture & Starter Template](https://github.com/far120/ELFAR-Full-Stack-Starter)
 > **Tech Stack:** React 19, Express 5, TypeScript, MongoDB (Mongoose 9), Tailwind CSS v4, Google Gemini AI, TanStack Query v5, Zod
 
 - 🏗️ Designed a production-ready boilerplate enforcing clean separation of concerns and scalable folder structures.
@@ -121,7 +121,7 @@
 
 ---
 
-### 🛒 3. [Fashion Market E-Commerce Platform](https://github.com/far120)
+### 🛒 3. [Fashion Market E-Commerce Platform](https://github.com/far120/Fashion-Market-clothes-)
 > **Tech Stack:** React 19, Node.js, Express.js, MongoDB, Mongoose, JWT, Helmet, Winston
 
 - 🛍️ Built a full-featured e-commerce system managing products, categories, brands, user reviews, shopping cart, and order workflows.
@@ -130,7 +130,7 @@
 
 ---
 
-### 💬 4. [Live Team Chat — Real-Time Web Application](https://github.com/far120)
+### 💬 4. [Live Team Chat — Real-Time Web Application](https://github.com/far120/Live-Team-Chat)
 > **Tech Stack:** React.js, Node.js, Express.js, Socket.IO, Tailwind CSS
 
 - 💬 Multi-room real-time chat application with instant message delivery and active room tracking.
@@ -138,7 +138,7 @@
 
 ---
 
-### 🧰 5. [Group of Tasks — Multi-Tool Web Dashboard](https://github.com/far120)
+### 🧰 5. [Group of Tasks — Multi-Tool Web Dashboard](https://github.com/far120/GroupofTasks)
 > **Tech Stack:** React.js, TypeScript, Vite, REST APIs (OpenWeatherMap, ExchangeRate API, OMDb API)
 
 - 🛠️ Unified dashboard combining 12+ web tools and utilities into a single responsive interface.
@@ -174,7 +174,6 @@
 [![Email](https://img.shields.io/badge/Email-mostafa.m.elfar@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mostafa.m.elfar@gmail.com)
 
 <br/>
-
 
 
 </div>
