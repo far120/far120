@@ -4,7 +4,7 @@
 ### **Junior Full-Stack Developer | Software Engineer**
 
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://front-portfolio-mostafa-elfar.vercel.app/)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-mahmoud-el-far-6a67732b5)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-mahmoud-elfar-6a67732b5)
   [![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mostafaelfar20)
   [![Email Badge](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafa.m.elfar@gmail.com)
 
