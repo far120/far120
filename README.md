@@ -12,7 +12,7 @@
 
 🎓 **Computer Science Graduate from Cairo University** (GPA: 3.38 / 4.0 - Very Good)  
 💻 Specializing in **Full-Stack Web Development** (MERN Stack, Next.js, PostgreSQL, TypeScript) & **AI Integration**  
-🚀 Built **5+ production-grade web applications** with focus on high scalability, clean architecture, and responsive UX  
+🚀 Built **5+ web applications** with focus on clean code, solid fundamentals, and responsive UX  
 🛡️ **Military Status:** Permanently Exempted from Military Service  
 
 ---
@@ -22,6 +22,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=far120&theme=tokyonight&hide_border=true" alt="Mostafa's GitHub Streak" />
 </p>
+
 
 
 </div>
@@ -95,6 +96,18 @@
       <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td><b>Software Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/SOLID_Principles-4A154B?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Design_Patterns-E34F26?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Layered_Architecture-2E7D32?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/MVC-1572B6?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dependency_Injection-8E24AA?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -111,13 +124,13 @@
 
 ---
 
-### ⚡ 2. [ELFAR Full-Stack Starter — Scalable Architecture & Starter Template](https://github.com/far120/ELFAR-Full-Stack-Starter)
+### ⚡ 2. [ELFAR Full-Stack Starter — Modular Starter Template](https://github.com/far120/ELFAR-Full-Stack-Starter)
 > **Tech Stack:** React 19, Express 5, TypeScript, MongoDB (Mongoose 9), Tailwind CSS v4, Google Gemini AI, TanStack Query v5, Zod
 
-- 🏗️ Designed a production-ready boilerplate enforcing clean separation of concerns and scalable folder structures.
+- 🏗️ Designed a modular full-stack starter template enforcing clean separation of concerns and clear folder structures.
 - 🔐 Authored JWT auth with 4-tier Role-Based Access Control (**RBAC**) and audit logging via **Winston & MongoDB**.
 - 🤖 Embedded **Google Gemini AI (`@google/genai`)** SDK for automated profile analytics and project diagnostics.
-- 🔄 Implemented resilient data fetching with **TanStack Query v5**, Axios 401 interceptors, and **Zod** schema validation.
+- 🔄 Implemented resilient data fetching with **TanStack Query v5**, Axios interceptors for 401 errors, and **Zod** schema validation.
 
 ---
 
@@ -130,7 +143,18 @@
 
 ---
 
-### 💬 4. [Live Team Chat — Real-Time Web Application](https://github.com/far120/Live-Team-Chat)
+### 📋 4. [CodeAlpha — Project Management Tool (Trello/Asana Alternative)](https://github.com/far120/CodeAlpha_-Project-Management-Tool)
+> **Tech Stack:** React 19, Vite, Express 5, TypeScript, MongoDB (Mongoose), Tailwind CSS v4, JWT/RBAC, Winston
+
+- 📌 Collaborative project management tool featuring group projects, interactive project boards, and task cards.
+- 🎯 Streamlined task assignment workflows and interactive communication via nested task comments.
+- 🔐 Secure JWT authentication (Access & Refresh tokens) with 3-tier Role-Based Access Control (**RBAC**).
+- 📜 Comprehensive system-wide audit logging and activity tracking with Winston and MongoDB.
+- 🌓 Modern responsive UI with dark mode support, React Hook Form, TanStack Query, and AI assistant integration.
+
+---
+
+### 💬 5. [Live Team Chat — Real-Time Web Application](https://github.com/far120/Live-Team-Chat)
 > **Tech Stack:** React.js, Node.js, Express.js, Socket.IO, Tailwind CSS
 
 - 💬 Multi-room real-time chat application with instant message delivery and active room tracking.
@@ -138,7 +162,7 @@
 
 ---
 
-### 🧰 5. [Group of Tasks — Multi-Tool Web Dashboard](https://github.com/far120/GroupofTasks)
+### 🧰 6. [Group of Tasks — Multi-Tool Web Dashboard](https://github.com/far120/GroupofTasks)
 > **Tech Stack:** React.js, TypeScript, Vite, REST APIs (OpenWeatherMap, ExchangeRate API, OMDb API)
 
 - 🛠️ Unified dashboard combining 12+ web tools and utilities into a single responsive interface.
@@ -150,8 +174,8 @@
 
 - 🎓 **Digital Egypt Pioneers Initiative (DEPI)** — *Full-Stack Web Development (MERN Track)*
   - **159+ hours** of intensive technical training covering React, Node.js, Express, MongoDB, and REST API architecture.
-- 🏛️ **National Telecommunication Institute (NTI)** — *Full-Stack Web Development Training*
-  - **210 total hours** (180 technical + 30 freelancing/agile coaching) focusing on full-stack web applications and agile workflows.
+- 🏛️ **National Telecommunication Institute (NTI)** — *Full-Stack Web Development Training (MEAN Stack)*
+  - **210 total hours** (180 technical + 30 freelancing coaching) focusing on MEAN Stack architecture and RESTful API design.
 
 ---
 
@@ -168,7 +192,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Elfar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mostafa-mahmoud-el-far-6a67732b5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mostafa_Elfar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mostafa-mahmoud-elfar-6a67732b5)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel)](https://front-portfolio-mostafa-elfar.vercel.app/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-mostafaelfar20-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/mostafaelfar20)
 [![Email](https://img.shields.io/badge/Email-mostafa.m.elfar@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mostafa.m.elfar@gmail.com)
